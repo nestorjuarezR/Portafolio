@@ -12,6 +12,8 @@ nav {
     height: 70px;
     width: auto;
     background-color: #798190;
+    position: sticky;
+    top: 0;
 
     border: solid 0px;
     border-radius: 15px;
